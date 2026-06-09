@@ -1,0 +1,26 @@
+# Temporary files
+*.log
+*.txt
+/tmp/*
+LOG_FILE
+
+# Other practice files (we'll only keep the final project for now)
+advanced_*.sh
+argument_*.sh
+array_*.sh
+backup.sh
+case_demo.sh
+daily_report.sh
+function_*.sh
+log_demo.sh
+logger_demo.sh
+menu_tool.sh
+practice.sh
+quick_tools.sh
+skills_*.sh
+temp_cleanup.sh
+trap_demo.sh
+user_greet.sh
+set
+example_tool.sh
+new_report.txt

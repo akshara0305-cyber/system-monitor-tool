@@ -12,6 +12,14 @@ Features:
 - Automatic cleanup ( even on Ctrl+C )
 - Generates timestamped system reports 
 
+#Demo / Screenshots 
+
+### 1. Interactive Menu + System Information 
+![Interactive Menu](screenshot-1.png)
+
+### 2. Top Processes + Report Generation 
+![Report Generation](screenshot-2.png)
+
 #Usage: 
 
 '''bash 
@@ -36,22 +44,5 @@ Concepts Used:
 6. ANSI Color Codes 
 
 AUTHOR
-Akshara | BCA Student 
-
-## Demo / Screenshots
-
-### 1. Interactive Menu + System Information
-![System Information](screenshot-1.png)
-
-### 2. Top Processes + Report Generation
-![Report Generation](screenshot-2.png)
-
-
-## Demo / Screenshots
-
-### 1. Interactive Menu + System Information
-<img src="screenshot-1.png" width="800" alt="Interactive Menu">
-
-### 2. Top Processes + Report Generation
-<img src="screenshot-2.png" width="800" alt="Report Generation">
+Akshara | BCA Student
 

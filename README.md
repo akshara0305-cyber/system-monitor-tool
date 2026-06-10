@@ -46,3 +46,12 @@ Akshara | BCA Student
 ### 2. Top Processes + Report Generation
 ![Report Generation](screenshot-2.png)
 
+
+## Demo / Screenshots
+
+### 1. Interactive Menu + System Information
+<img src="screenshot-1.png" width="800" alt="Interactive Menu">
+
+### 2. Top Processes + Report Generation
+<img src="screenshot-2.png" width="800" alt="Report Generation">
+

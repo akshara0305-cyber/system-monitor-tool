@@ -37,3 +37,12 @@ Concepts Used:
 
 AUTHOR
 Akshara | BCA Student 
+
+## Demo / Screenshots
+
+### 1. Interactive Menu + System Information
+![System Information](screenshot-1.png)
+
+### 2. Top Processes + Report Generation
+![Report Generation](screenshot-2.png)
+

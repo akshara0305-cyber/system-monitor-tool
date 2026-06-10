@@ -47,12 +47,12 @@ cleanup() {
 
 show_system_info() {
     echo -e "${BLUE}=== System Information ===${NC}"
-    echo "Date & Time     : $(date)"
-    echo "Hostname        : $(hostname)"
-    echo "Uptime          : $(uptime -p)"
-    echo "Logged In User  : $(whoami)"
-    echo "Current Dir     : $(pwd)"
-    echo "Disk Usage      : $(df -h / | awk 'NR==2 {print $5 " used"}')"
+    echo "Date & Time        : $(date)"
+    echo "Hostname           : $(hostname)"
+    echo "Uptime             : $(uptime -p)"
+    echo "Logged In User     : $(whoami)"
+    echo "Current Directory  : $(pwd)"
+    echo "Disk Usage         : $(df -h / | awk 'NR==2 {print $5 " used"}')"
     echo ""
 }
 

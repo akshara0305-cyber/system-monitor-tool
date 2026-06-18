@@ -22,12 +22,13 @@ Features:
 
 #Usage: 
 
-'''bash 
+```bash 
 ./sysmonitor.sh                         #Interactive Menu Mode 
 ./sysmonitor.sh -v                      #Verbose Mode 
 ./sysmonitor.sh -o myreport.txt         #Custom report filename 
 ./sysmonitor.sh -v -o report.txt        #Verbose + custom report 
 ./sysmonitor.sh -h                      #Show help
+```
 
 Menu Options 
 1. Show System Information 

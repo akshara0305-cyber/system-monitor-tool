@@ -44,6 +44,6 @@ Concepts Used:
 5. Traps 
 6. ANSI Color Codes 
 
-AUTHOR
+## AUTHOR
 Akshara | BCA Student
 
